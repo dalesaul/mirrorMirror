@@ -1,0 +1,16 @@
+#messagePreviewContainer{
+    display: flex;
+    align-content: space-evenly;
+    
+}
+#odin{
+    flex-direction: row;
+    width: 50%;
+    border: 2px solid orange;
+
+}
+#dva{
+    flex-direction: row;
+    width: 50%;
+    border: 2px solid red;
+}
